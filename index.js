@@ -15,7 +15,7 @@ app.get('/', function (req, res) {
 
 app.post('/', function (req, res) {
     // console.log(json(req.body))
-    const key = "x2jZoYWO4aKcxrS96ds0aaKVBI8ChpXmAUQ4N5L22kBWgxRmXIehniAhejZOrA48";
+    const key = "Zyw6wiFx6lOrUifzEB0FQlKmTDrEjk1fiGQAlqVA0T2H8dNQJAtKZaIpzJLo5CeY";
     // const hash = 'SHA-256';
     const msg = JSON.stringify(req.body);
 
